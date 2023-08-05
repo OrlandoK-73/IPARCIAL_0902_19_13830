@@ -1,0 +1,8 @@
+Comandos variios utilizados:
+1. El repositorio se cargo al Code a traves de vista y paleta de comandos pegando la URL
+YA EN CODE:
+2. Iniciamos la terminal
+3. Status para ver rama y que todo vaya de 0
+4. Branch Verificamos la rama principal
+5. CheckOut para crear rama secundaria
+6. Add Cerramos los cambios y empezamos a brincar entre rams y a subir de la pc a la web
